@@ -16,8 +16,6 @@ This repository contains information on the setup of development and production 
 2. Configure security groups to allow SSH access only from your IP.
 3. Connect to the instance using your key pair.
 
-### Software Installed
--
 
 ## Production Instance
 
@@ -37,8 +35,4 @@ This repository contains information on the setup of development and production 
 
 
 
-# Development Instance
-
-
-# Production Instance
 
