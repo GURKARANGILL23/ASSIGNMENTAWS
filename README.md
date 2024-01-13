@@ -15,7 +15,7 @@ This repository contains information on the setup of development and production 
 
 ### Instance Details
 - AMI:Amazon Linux 2
-- Instance Type:t2.small (adjust as needed)
+- Instance Type:t2.micro
 - Security Group:SSH
   
 
